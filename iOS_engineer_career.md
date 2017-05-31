@@ -4,7 +4,7 @@ iOSアプリの「ぐるポケ」の開発をお願いします。
 開発における最適解を導いていただきます。
 
 # 要件
-##必要条件
+## 必要条件
 * iOSアプリの開発経験
 * [弊社バリュー](https://github.com/NiCOLA-inc/careers/blob/master/value_nicola)への共感
 

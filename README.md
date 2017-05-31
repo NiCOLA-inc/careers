@@ -23,7 +23,8 @@ NiCOLA, inc. での職種別募集情報をこちらで公開しています。
 
 **ぐるポケ**
 
-##現在募集中の職種
+
+## 現在募集中の職種
 * [サーバーサイドエンジニア](https://github.com/NiCOLA-inc/careers/blob/master/Server_side_engineer_career.md)
 * iOSエンジニア
 * UIデザイナー

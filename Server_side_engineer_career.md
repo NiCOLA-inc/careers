@@ -5,7 +5,7 @@ NiCOLAでは、位置情報やユーザーの飲食情報を元にした
 主なお仕事になります。
 
 # 要件
-##必要条件
+## 必要条件
 * Webアプリケーションの開発経験
 * [弊社バリュー](https://github.com/NiCOLA-inc/careers/blob/master/value_nicola)への共感
 
