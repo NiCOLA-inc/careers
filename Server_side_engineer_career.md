@@ -5,5 +5,5 @@ NiCOLAでは、位置情報やユーザーの飲食情報を元にした
 主なお仕事になります。
 
 ### 応募
-* こちらの [応募リンク](http://bit.ly/2rnjLad)
+* [こちらの応募リンク](http://bit.ly/2rnjLad)
 * ```$ open http://bit.ly/2rnjLad```
