@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ccd04c5-ab20-437a-9bb4-ae9c4e1c9877" name="Default" comment="" />
+    <list default="true" id="4ccd04c5-ab20-437a-9bb4-ae9c4e1c9877" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/value_engineering.md" afterPath="$PROJECT_DIR$/value_engineering.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,12 +29,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="value_engineering.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="value_engineering.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/value_engineering.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,12 +42,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ui_desiginer_career.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ui_desiginer_career.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ui_desiginer_career.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="value_nicola.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/value_nicola.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -78,8 +93,8 @@
         <option value="$PROJECT_DIR$/iOS_engineer_career" />
         <option value="$PROJECT_DIR$/Server_side_engineer_career.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/value_engineering.md" />
         <option value="$PROJECT_DIR$/ui_desiginer_career.md" />
+        <option value="$PROJECT_DIR$/value_engineering.md" />
       </list>
     </option>
   </component>
@@ -114,6 +129,16 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="careers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="careers" />
@@ -250,12 +275,12 @@
       <workItem from="1496217449029" duration="3317000" />
       <workItem from="1496223053309" duration="25000" />
       <workItem from="1496223083587" duration="52000" />
-      <workItem from="1496290932130" duration="292000" />
+      <workItem from="1496290932130" duration="528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3891000" />
+    <option name="totallyTimeSpent" value="4127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="71" width="1061" height="714" extended-state="0" />
@@ -433,22 +458,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/value_engineering.md">
+    <entry file="file://$PROJECT_DIR$/ui_desiginer_career.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ui_desiginer_career.md">
+    <entry file="file://$PROJECT_DIR$/value_nicola.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/value_engineering.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
